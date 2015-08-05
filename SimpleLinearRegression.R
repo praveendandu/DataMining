@@ -25,4 +25,4 @@ plot(year,rate,
      main="Commercial Banks Interest Rate for 4 Year Car Loan")
 abline(fit)
 
-summary(fit) # Gives summry of the fit
+summary(fit) # Gives summary of the fit
